@@ -30,37 +30,37 @@ html {
   padding: 15px;
 }
 @media (min-width: 768px) and (max-width: 2000px) {
-  .list--col-1 {
+  .col-1 {
     width: 8.33%;
   }
-  .list--col-2 {
+  .col-2 {
     width: 16.66%;
   }
-  .list--col-3 {
+  .col-3 {
     width: 25%;
   }
-  .list--col-4 {
+  .col-4 {
     width: 33.33%;
   }
-  .list--col-5 {
+  .col-5 {
     width: 41.66%;
   }
-  .list--col-6 {
+  .col-6 {
     width: 50%;
   }
-  .list--col-7 {
+  .col-7 {
     width: 58.33%;
   }
-  .list--col-8 {
+  .col-8 {
     width: 66.66%;
   }
-  .list--col-9 {
+  .col-9 {
     width: 75%;
   }
-  .list--col-10 {
+  .col-10 {
     width: 83.33%;
   }
-  .list--col-11 {
+  .col-11 {
     width: 91.66%;
   }
   .col-12 {
@@ -68,78 +68,78 @@ html {
   }
 }
 @media only screen and (min-width: 600px) {
-  .list--col-t-1 {
+  .col-t-1 {
     width: 8.33%;
   }
-  .list--col-t-2 {
+  .col-t-2 {
     width: 16.66%;
   }
-  .list--col-t-3 {
+  .col-t-3 {
     width: 25%;
   }
-  .list--col-t-4 {
+  .col-t-4 {
     width: 33.33%;
   }
-  .list--col-t-5 {
+  .col-t-5 {
     width: 41.66%;
   }
-  .list--col-t-6 {
+  .col-t-6 {
     width: 50%;
   }
-  .list--col-t-7 {
+  .col-t-7 {
     width: 58.33%;
   }
-  .list--col-t-8 {
+  .col-t-8 {
     width: 66.66%;
   }
-  .list--col-t-9 {
+  .col-t-9 {
     width: 75%;
   }
-  .list--col-t-10 {
+  .col-t-10 {
     width: 83.33%;
   }
-  .list--col-t-11 {
+  .col-t-11 {
     width: 91.66%;
   }
-  .list--col-t-12 {
+  .col-t-12 {
     width: 100%;
   }
 }
 @media (min-width: 320px) and (max-width: 599px) {
-  .list--col-s-1 {
+  .col-s-1 {
     width: 8.33%;
   }
-  .list--col-ss-2 {
+  .col-ss-2 {
     width: 16.66%;
   }
-  .list--col-ss-3 {
+  .col-ss-3 {
     width: 25%;
   }
-  .list--col-ss-4 {
+  .col-ss-4 {
     width: 33.33%;
   }
-  .list--col-ss-5 {
+  .col-ss-5 {
     width: 41.66%;
   }
-  .list--col-ss-6 {
+  .col-ss-6 {
     width: 50%;
   }
-  .list--col-ss-7 {
+  .col-ss-7 {
     width: 58.33%;
   }
-  .list--col-ss-8 {
+  .col-ss-8 {
     width: 66.66%;
   }
-  .list--col-ss-9 {
+  .col-ss-9 {
     width: 75%;
   }
-  .list--col-ss-10 {
+  .col-ss-10 {
     width: 83.33%;
   }
-  .list--col-ss-11 {
+  .col-ss-11 {
     width: 91.66%;
   }
-  .list--col-ss-12 {
+  .col-ss-12 {
     width: 100%;
   }
 }
