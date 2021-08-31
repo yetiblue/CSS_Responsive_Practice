@@ -1,6 +1,22 @@
 html {
   font-family: "Lucida Sans", sans-serif;
 }
+.aside {
+  margin: 0;
+  padding: 1em;
+  background-color: #33b5e5;
+  text-align: center;
+  color: #fff;
+}
+.content {
+  max-width: 100%;
+}
+
+.footer {
+  background-color: #33b5e5;
+  text-align: center;
+  color: #fff;
+}
 .header {
   background-color: #9933cc;
   color: #ffffff;
@@ -8,6 +24,8 @@ html {
 }
 .list {
   max-width: 100%;
+  margin: 0;
+  padding: 0;
 }
 .list_ul {
   list-style-type: none;
@@ -29,7 +47,8 @@ html {
   float: left;
   padding: 15px;
 }
-@media (min-width: 768px) and (max-width: 2000px) {
+
+@media (min-width: 1151px) and (max-width: 2000px) {
   .col-1 {
     width: 8.33%;
   }
@@ -67,7 +86,8 @@ html {
     width: 100%;
   }
 }
-@media only screen and (min-width: 600px) {
+
+@media (min-width: 600px) and (max-width: 1150px) {
   .col-t-1 {
     width: 8.33%;
   }
@@ -105,8 +125,9 @@ html {
     width: 100%;
   }
 }
+
 @media (min-width: 320px) and (max-width: 599px) {
-  .col-s-1 {
+  .col-ss-1 {
     width: 8.33%;
   }
   .col-ss-2 {
